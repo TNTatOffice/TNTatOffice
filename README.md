@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TNTatOffice
-- 👀 Javascript, HTML and CSS
-- 🌱 On road to becoming a full time full stack developer
+- 👀 Javascript, HTML, and CSS, React, and NodeJs
+- 🌱 On the road to becoming a full-time, full stack developer
 
 
 <!---
