@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TNTatOffice
+- 👋 Hi, I’m Tai
 - 👀 Javascript, HTML, and CSS, React, and NodeJs
 - 🌱 On the road to becoming a full-time, full stack developer
 
